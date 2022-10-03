@@ -19,13 +19,12 @@
 RM轮播,http://akm-tct.douyucdn.cn/live/7298973r1TQFvGlk.flv?uuid=
 RM点播,http://akm-tct.douyucdn.cn/live/131977rH73aFSByv.flv?uuid=
 万合天宜系列,http://akm-tct.douyucdn.cn/live/9220456rVtjKCWz3.flv?uuid=
-西游记,http://akm-tct.douyucdn.cn/live/3113309rELAgOgpH.flv?uuid=
 经典影院,http://akm-tct.douyucdn.cn/live/7359565rtivMufQW.flv?uuid=
 爱回家之开心速递,http://txtest-xp2p.p2p.huya.com/src/1199563478941-1199563478941-5444314962614812672-2399127081338-10057-A-0-1.xs
 春晚小品,http://txtest-xp2p.p2p.huya.com/src/1423782031-1423782031-6115097259777458176-2847687518-10057-A-0-1.xs
 测试,#genre#
 J2,http://173.211.42.73:8278/j2_twn/playlist.m3u8?tid=ME0E4382171043821710&ct=19237&tsum=6f10351124a4eb90780b2f84b2c4d349
 翡翠,http://173.211.42.73:8278/jade_twn/playlist.m3u8?tid=MFAF3621176136211761&ct=19237&tsum=d11caa3f055194051ba8b93c6575dbd1
-热门歌,#genre#
-IDOL,https://cn-hljheb-ct-01-01.bilivideo.com/upgcxcode/97/89/196428997/196428997-1-208.mp4?e=ig8euxZM2rNcNbha7zdVhwdlhzuahwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1664383495&gen=playurlv2&os=bcache&oi=837395164&trid=00001519caddafc8486c9ec8eecde6c434efT&mid=0&platform=html5&upsig=6171ddc45b18f6ad617a2779dea68b3c&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&cdnid=3840&bvc=vod&nettype=0&bw=377241&orderid=0,1&logo=80000000
-ICY,https://bj29-enet.cn-beijing.data.alicloudccp.com/Gd5rKlUM%2F49490980%2F62838f3ef6f7dfd0043e4c72ac626d0afdba3ce4%2F62838f3e76e8bd9af18b43838bf59740ceb9b67d?di=bj29&dr=49490980&f=62838f3ef6f7dfd0043e4c72ac626d0afdba3ce4&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27ITZY-ICY.mp4&security-token=CAIS%2BgF1q6Ft5B2yfSjIr5WDCuuCprkY3rKNYWDmvjJkRNxnhradujz2IHFPeHJrBeAYt%2FoxmW1X5vwSlq5rR4QAXlDfNS7gCiCHqVHPWZHInuDox55m4cTXNAr%2BIhr%2F29CoEIedZdjBe%2FCrRknZnytou9XTfimjWFrXWv%2Fgy%2BQQDLItUxK%2FcCBNCfpPOwJms7V6D3bKMuu3OROY6Qi5TmgQ41Uh1jgjtPzkkpfFtkGF1GeXkLFF%2B97DRbG%2FdNRpMZtFVNO44fd7bKKp0lQLukMWr%2Fwq3PIdp2ma447NWQlLnzyCMvvJ9OVDFyN0aKEnH7J%2Bq%2FzxhTPrMnpkSlacGoABJZXNUv%2Ffky7YiM%2Fw2608Nka5utyQi31bfxXVqsT1cId%2FwmLyphDvwJGEH%2B2AQhxZU%2F1CYqdzWlFBmhz7gzDm7bm75Q3sTesOtZymfwnclvc%2B%2FxY%2BFArITs%2Fv9TkoZb3%2Bh0Tl91eIMfG2u1o5P%2FIk%2FM2xT8tWPapXGggCRgtybxg%3D&u=9ad2ae5e47e848928d90015c0ca120e9&x-oss-access-key-id=STS.NV6AQ6Kf9ipfcFWZ21HSKis6X&x-oss-expires=1664486437&x-oss-signature=nybwzGK4KcbIZRV8%2F54FaC2lRlN3rEdtxbck%2FYByOm0%3D&x-oss-signature-version=OSS2
+在线观看_10086,#genre#
+Dorcel,
+http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/245/index.m3u8
