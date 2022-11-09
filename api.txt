@@ -34,7 +34,7 @@
 
 综艺,#genre#
 极限挑战,http://txtest-xp2p.p2p.huya.com/src/1423782086-1423782086-6115097496000659456-2847687628-10057-A-0-1.xs
-吐槽大会,http://akm-tct.douyucdn.cn/live/9236042rn4434StB.flv?uuid=
+吐槽大会,http://akm-tct.douyucdn.cn/live/9236042ro1PjedFL.flv?uuid=
 春晚小品,http://txtest-xp2p.p2p.huya.com/src/1423782031-1423782031-6115097259777458176-2847687518-10057-A-0-1.xs
 RM轮播,http://akm-tct.douyucdn.cn/live/7298973r1TQFvGlk.flv?uuid=
 RM点播,http://akm-tct.douyucdn.cn/live/131977rH73aFSByv.flv?uuid=
