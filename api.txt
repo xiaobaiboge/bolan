@@ -1,10 +1,6 @@
-美食音乐,#genre#
+huya轮播,#genre#
 李子柒,http://txtest-xp2p.p2p.huya.com/src/1199512837905-1199512837905-5226813369159254016-2399025799266-10057-A-0-1.xs
-美食纪录片,http://akm-tct.douyucdn.cn/live/5451871rj7F6zjZn.flv?uuid=
-盗月社,http://akm-tct.douyucdn.cn/live/8915396rltd94U6g.flv?uuid=
 盗月社.,http://txtest-xp2p.p2p.huya.com/src/1199564802263-1199564802263-5449998587326889984-2399129727982-10057-A-0-1.xs
-
-电影&剧集,#genre#
 周星驰（粤）,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
 周星星,http://txtest-xp2p.p2p.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.xs
 吴孟达,http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
@@ -22,8 +18,6 @@
 王晶导演,http://txtest-xp2p.p2p.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.xs
 香港女神系列,http://txtest-xp2p.p2p.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.xs
 古装武侠,http://txtest-xp2p.p2p.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.xs
-伪装者,http://akm-tct.douyucdn.cn/live/9388938rl1H5g4CO.flv?uuid=
-使徒行者,http://akm-tct.douyucdn.cn/live/9019945rrYKjXz0W.flv?uuid=
 镖行天下,http://txtest-xp2p.p2p.huya.com/src/1449574253-1449574253-6225874009758629888-2847699210-10057-A-0-1.xs
 鹿鼎记1998,http://txtest-xp2p.p2p.huya.com/src/1199563459172-1199563459172-5444230055406338048-2399127041800-10057-A-0-1.xs
 破chan姐妹,http://txtest-xp2p.p2p.huya.com/src/1394575539-1394575539-5989656331806572544-2789274534-10057-A-0-1.xs
@@ -32,7 +26,6 @@
 
 综艺,#genre#
 极限挑战,http://txtest-xp2p.p2p.huya.com/src/1423782086-1423782086-6115097496000659456-2847687628-10057-A-0-1.xs
-吐槽大会,http://akm-tct.douyucdn.cn/live/9236042ro1PjedFL.flv?uuid=
 春晚小品,http://txtest-xp2p.p2p.huya.com/src/1423782031-1423782031-6115097259777458176-2847687518-10057-A-0-1.xs
 RM轮播,http://akm-tct.douyucdn.cn/live/7298973r1TQFvGlk.flv?uuid=
 RM点播,http://akm-tct.douyucdn.cn/live/131977rH73aFSByv.flv?uuid=
