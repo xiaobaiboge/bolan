@@ -1,7 +1,5 @@
 测试MV,#genre#
-Nxde-(G)I-DLE,https://apd-1d7412187847f9691eab07b47d39121c.v.smtcdns.com/mv.music.tc.qq.com/AEFOQE6ciDxc7fv8kx7zlN6s0z_lBJpV6uJfRQQn1f60/DD1295CDFAE3F3401A12B880663A1D9CB16A1530FA80C278563A3B8358BA974805747F28CF6971348C13BD3E92621C3BZZqqmusic_default/qmmv_0b6b64adoaaazqamco2r65rvj5yag73qan2a.f9944.m3u8
-Nxde-(G)I-DLE-MV,https://v6.stream.tencentmusic.com/0b53omcquaaf4eaifldhp5r2i46dbjzqkcqa.f160030.mp4?dis_k=996f6c66e6d9ab709638c7dbbe751148&dis_t=1668956393&local=1&fromtag=1061014
-
+Nxde-(G)I-DLE-MV,https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBdlVUYkFCR3d3Y1ZnMFBLSHZfUU42MmtYQVJ5.mp4
 huya轮播,#genre#
 李子柒,http://txtest-xp2p.p2p.huya.com/src/1199512837905-1199512837905-5226813369159254016-2399025799266-10057-A-0-1.xs
 盗月社.,http://txtest-xp2p.p2p.huya.com/src/1199564802263-1199564802263-5449998587326889984-2399129727982-10057-A-0-1.xs
