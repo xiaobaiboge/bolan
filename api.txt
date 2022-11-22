@@ -1,7 +1,5 @@
 测试MV,#genre#
 Nxde-(G)I-DLE-MV,https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBdlVUYkFCR3d3Y1ZnMFBLSHZfUU42MmtYQVJ5.mp4
-天翼云720p,https://link.jscdn.cn/189/aHR0cHM6Ly9jbG91ZC4xODkuY24vdC9CRnp1RWZtWU5SWmomcGFzc0NvZGU9a3h2MA.mp4
-天翼云1080P,https://link.jscdn.cn/189/aHR0cHM6Ly9jbG91ZC4xODkuY24vdC9VanlNVnZKN3ZJWnYmcGFzc0NvZGU9amk2eQ.mp4
 huya轮播,#genre#
 李子柒,http://txtest-xp2p.p2p.huya.com/src/1199512837905-1199512837905-5226813369159254016-2399025799266-10057-A-0-1.xs
 盗月社.,http://txtest-xp2p.p2p.huya.com/src/1199564802263-1199564802263-5449998587326889984-2399129727982-10057-A-0-1.xs
