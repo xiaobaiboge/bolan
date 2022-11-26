@@ -1,4 +1,5 @@
 测试MV,#genre#
+IDOL - BTS,https://sloth.cdnja.co/v/av/AvB0L.mp4
 Nxde,https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBdlVUYkFCR3d3Y1ZnMFBLSHZfUU42MmtYQVJ5.mp4
 TOMBOY,https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBdlVUYkFCR3d3Y1ZnMFZEbTA3MDhpZDZvZ1Aw.mp4
 LATATA,https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBdlVUYkFCR3d3Y1ZnMFplWUdQc2oySzNrcktM.mp4
