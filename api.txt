@@ -17,8 +17,14 @@ The Fox-Ylvis,https://sloth.cdnja.co/v/nz/nz0NO.mp4
 无双的王者live-邓紫棋,https://sloth.cdnja.co/v/o7/o7npG.mp4
 When We Disco-J.Y.P,https://sloth.cdnja.co/v/ae/aevnW.mp4
 
-测试,#genre#
-宋雨琦01,https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBdlVUYkFCR3d3Y1ZnMUpyU0lpTmRtaDE2TU1W.mp4
+港澳台,#genre#
+凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+TVB翡翠,http://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76de81.m3u8
+TVB翡翠,http://23.237.10.66:16106
+TVB翡翠,http://nsszds.f3322.net:808/hls/67/index.m3u8
 
 
 huya轮播,#genre#
