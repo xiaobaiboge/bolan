@@ -53,6 +53,7 @@ CCTV14,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204403.m3u8
 CCTV15,http://124.220.17.172/as.php?id=15
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
 
+CCTV16,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
 CCTV16,http://124.220.17.172/as.php?id=16
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 
