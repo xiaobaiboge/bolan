@@ -31,15 +31,15 @@
       "key": "drpy_js_TVB云播",
       "name": "⚡TVB云播[JS]",
       "type": 3,
-      "api": "https://jihulab.com/xyqby/byds/-/raw/main/libs/drpy2.min.js",
-      "ext": "https://jihulab.com/xyqby/byds/-/raw/main/js/TVB%E4%BA%91%E6%92%AD.js"
+      "api": "./drpy_js/libs/drpy2.min.js",
+      "ext": "./drpy_js/js/TVB云播.js"
     },
     {
       "key": "drpy_js_荐片",
       "name": "⚡荐片[JS]",
       "type": 3,
-      "api": "https://jihulab.com/xyqby/byds/-/raw/main/libs/drpy2.min.js",
-      "ext": "https://jihulab.com/xyqby/byds/-/raw/main/js/%E8%8D%90%E7%89%87.js"
+      "api": "./drpy_js/libs/drpy2.min.js",
+      "ext": "./drpy_js/js/荐片.js"
     },
 
         {"key":"Gitcafe","name":"📀小纸条(搜索)","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./alitoken.txt"},
