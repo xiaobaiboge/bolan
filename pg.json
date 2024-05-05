@@ -1,0 +1,186 @@
+{
+    "sites": [
+        {
+            "key": "网盘配置",
+            "name": "网盘及彈幕配置",
+            "type": 3,
+            "api": "csp_Config",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "./lib/tokenm.json"
+        },
+        {
+            "key": "csp_JavDb",
+            "name": "🧲JavDb",
+            "type": 3,
+            "api": "csp_JavDb",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "timeout": 180,
+            "ext": "http://javdb524.com"
+        },
+        {
+            "key": "csp_JavBus",
+            "name": "🧲JavBus",
+            "type": 3,
+            "api": "csp_JavBus",
+            "style": {
+                "type": "rect"
+            },
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "timeout": 180,
+            "ext": "https://www.busdmm.art/"
+        },
+        {
+            "key": "csp_Jable",
+            "name": "✈️Jable",
+            "type": 3,
+            "api": "csp_Jable",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_NiNi",
+            "name": "✈️泥巴",
+            "type": 3,
+            "api": "csp_NiNi",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "1"
+        },
+        {
+            "key": "18av",
+            "name": "18AV",
+            "type": 3,
+            "api": "csp_Eighteen",
+            "timeout": 60,
+            "searchable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "MissAV",
+            "name": "MissAV",
+            "type": 3,
+            "api": "csp_Miss",
+            "searchable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "Netflav",
+            "name": "Netflav",
+            "type": 3,
+            "api": "csp_Netflav",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },            
+            "searchable": 0,
+            "changeable": 0,
+            "ext":"https://netflav5.com"            
+        },
+        {
+            "key": "clg",
+            "name": "🍃 | 磁力狗 | 💠",
+            "type": 3,
+            "api": "csp_Clg",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://clg.clgvip1.xyz/$$$proxy$$$1"
+        },
+        {
+            "key": "BtSearch",
+            "name": "🍃 | BT搜索 | 💠",
+            "type": 3,
+            "api": "csp_BtSearch",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$null$$$null$$$1"
+        },
+        {
+            "key": "BtSow",
+            "name": "🍃 | BTSow | 💠",
+            "type": 3,
+            "api": "csp_BtSow",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$null$$$null$$$1"
+        },
+        {
+            "key": "push_agent",
+            "name": "推送",
+            "type": 3,
+            "api": "csp_Push",
+            "changeable": 0,
+            "timeout": 180,
+            "ext": "./lib/tokenm.json"
+        }
+    ],
+    "rules": [
+        {
+            "name": "proxy",
+            "hosts": [
+                "jable.tv",
+                "anono-cloneing.mushroomtrack.com",
+                "cdn.v82u1l.com",
+                "cdn.iz8qkg.com",
+                "cdn.kin6c1.com",
+                "c.biggggg.com",
+                "c.olddddd.com",
+                "haiwaikan.com",
+                "www.histar.tv",
+                "youtube.com",
+                "uhibo.com",
+                ".*boku.*",
+                ".*nivod.*",
+                "*.t4tv.hz.cz",
+                ".*ulivetv.*"
+            ]
+        },
+        {
+            "name": "磁力广告",
+            "hosts": [
+                "magnet"
+            ],
+            "regex": [
+                "更多",
+                "社 區",
+                "x u u",
+                "最 新",
+                "直 播",
+                "更 新",
+                "社 区",
+                "有 趣",
+                "英皇体育",
+                "全中文AV在线",
+                "澳门皇冠赌场",
+                "哥哥快来",
+                "美女荷官",
+                "裸聊",
+                "新片首发",
+                "UUE29",
+                "苍老师强力推荐"
+            ]
+        }
+    ],
+    "spider": "./pg.jar"
+}
