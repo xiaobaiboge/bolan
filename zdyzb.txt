@@ -21,9 +21,6 @@ CCTV-4K 超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/pla
 CCTV-8K 超高清,https://tv.cry33.com/ys4k.php?id=8k
 
 卫视频道,#genre#
-凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰香港,http://113.64.145.91:8081/hls/38/index.m3u8
 深圳卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 重庆卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 广东卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
@@ -100,30 +97,18 @@ CGTN记录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 精品萌宠,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 超级综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-翡翠,#genre#
 
-翡翠台,https://iptv.hiper25.com/TVB/video.m3u8
-翡翠台,https://live.hkdvb.com/hls/live/81.m3u8?token=685334287958492
-无线财经,http://live.cooltv.top/tv/tvb.php?id=2
-无线财经,http://php.jdshipin.com:8880/PLTV/iptv.php?id=tvbcj
-无线财经,https://fake-stream.livednow.com/tvb/I-FINA?token=99560e5d097f1c356fe931c85e95183e&user_id=5483006064&user_token=73c1361fb2e13558fcf79ecf8af05c52
+
 
 轮播,#genre#
-周星驰,https://live.metshop.top/huya/11342412
-王晶,https://live.metshop.top/huya/11602058
-周星驰(粤),https://live.metshop.top/huya/11336587
-虎牙-韩跑,https://live.metshop.top/huya/11336725
-
-//韩跑//http://diyp.112114.xyz/douyu/131977
-韩跑https://diyp2.112114.xyz/douyu/131977
-韩跑https://diyp3.112114.xyz/douyu/131977
 韩跑,https://live.metshop.top/douyu/131977
 韩跑,http://mmitv.top/test/douyu.php?id=131977
 庆余年,https://live.metshop.top/douyu/7489563
-庆余年2,http://mmitv.top/test/douyu.php?id=7489563
 
-2253,https://shls.mcloud.139.com/hls/KA00e577b70b55e28faf4f5b4aa837d59d/single/video/0/1080/index.m3u8
-2254,https://shls.mcloud.139.com/hls/KA96894ecde2a8ce9c998fc106770fa777/single/video/0/1080/index.m3u8
+
+
+
+
 
 歌曲轮播,#genre#
 アイドル(idol)第74回红白歌合战,http://52pan.top:81/f/okRTA/IDOL.mp4
