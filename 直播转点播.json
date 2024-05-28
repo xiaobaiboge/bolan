@@ -7,7 +7,11 @@
             "name": "直播|点播📺",
             "type": 3,
             "api": "./zb.js",
-            "ext": "./zb.json"
+            "ext": "./zb.json",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }            
         }
     ],
     "rules": [
