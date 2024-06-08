@@ -104,7 +104,7 @@ CGTN记录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 韩跑,https://live.metshop.top/douyu/131977
 韩跑,http://mmitv.top/test/douyu.php?id=131977
 庆余年,https://live.metshop.top/douyu/7489563
-
+六一节目,https://i3.vzan.com/live/603615/mps/20240601/2f52dcf88ee24e989144c26c944ca2be/da8567afb8324d32b7bce3ef3e5a648e.m3u8
 
 
 
