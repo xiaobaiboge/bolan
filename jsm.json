@@ -1,0 +1,56 @@
+{
+    "sites": [
+        {
+            "key": "Youtube",
+            "name": "Youtube",
+            "type": 3,
+            "api": "csp_Youtube",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "./lib/youtube.json",
+                "proxy": "192.168.31.153:7890",
+                "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
+                "codecs": ""
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        }
+    ],
+    "rules": [
+        {
+            "name": "proxy",
+            "hosts": [
+                "raw.githubusercontent.com",
+                "googlevideo.com",
+                "cdn.v82u1l.com",
+                "cdn.iz8qkg.com",
+                "cdn.kin6c1.com",
+                "c.biggggg.com",
+                "c.olddddd.com",
+                "haiwaikan.com",
+                "www.histar.tv",
+                "youtube.com",
+                "jable.tv",
+                "mushroomtrack.com",
+                "news.tvb.com",
+                "playback.live-video.net",
+                "user.mypikpak.com",
+                "www.javbus.com",
+                "javdb.com",
+                "btsow.motorcycles",
+                "googleapis.com",
+                "youtubei.googleapis.com",
+                "uhibo.com",
+                ".*boku.*",
+                ".*nivod.*",
+                "*.t4tv.hz.cz",
+                ".*ulivetv.*"
+            ]
+        }
+    ],
+    "spider": "./pg.jar"
+}
