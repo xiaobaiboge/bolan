@@ -10,7 +10,7 @@
             "changeable": 0,
             "ext": {
                 "json": "./lib/youtube.json",
-                "proxy": "192.168.31.153:7890",
+                "proxy": "proxy",
                 "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
                 "codecs": ""
             },
