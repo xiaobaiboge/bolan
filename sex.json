@@ -1,0 +1,95 @@
+{
+    "sites": [
+        {
+            "key": "clg",
+            "name": "🧲磁力狗",
+            "type": 3,
+            "api": "csp_Clg",
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://clg.clgvip1.xyz$$$1"
+        },
+        {
+            "key": "BtSearch",
+            "name": "🧲BT搜索",
+            "type": 3,
+            "api": "csp_BtSearch",
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$null$$$null$$$1"
+        },
+        {
+            "key": "BtSow",
+            "name": "🧲BTSow",
+            "type": 3,
+            "api": "csp_BtSow",
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://btsow.motorcycles$$$null$$$null$$$1$$$proxy"
+        },
+        {
+            "key": "Jable",
+            "name": "🐞Jable",
+            "type": 3,
+            "api": "csp_Jable",
+            "ext": "proxy",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
+        {
+            "key": "csp_JavDb",
+            "name": "🧲JavDb",
+            "type": 3,
+            "api": "csp_JavDb",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": "./lib/tokenm.json$$$https://javdb.com$$$proxy"
+        },
+        {
+            "key": "csp_JavBus",
+            "name": "🧲JavBus",
+            "type": 3,
+            "api": "csp_JavBus",
+            "ext": "./lib/tokenm.json$$$https://www.buscdn.shop$$$proxy",
+            "style": {
+                "type": "rect",
+                "ratio": 0.75
+            }
+        }
+    ],
+    "rules": [
+        {
+            "name": "proxy",
+            "hosts": [
+                "raw.githubusercontent.com",
+                "googlevideo.com",
+                "cdn.v82u1l.com",
+                "cdn.iz8qkg.com",
+                "cdn.kin6c1.com",
+                "c.biggggg.com",
+                "c.olddddd.com",
+                "haiwaikan.com",
+                "www.histar.tv",
+                "youtube.com",
+                "www.buscdn.shop",
+                "jable.tv",
+                "mushroomtrack.com",
+                "news.tvb.com",
+                "playback.live-video.net",
+                "user.mypikpak.com",
+                "javdb.com",
+                "www.javbus.com",
+                "btsow.motorcycles",
+                "googleapis.com",
+                "youtubei.googleapis.com",
+                "uhibo.com",
+                ".*boku.*",
+                ".*nivod.*",
+                "*.t4tv.hz.cz",
+                ".*ulivetv.*"
+            ]
+        }
+    ],
+    "spider": "./pg.jar"
+}
