@@ -50,13 +50,16 @@
 "wgcf_xray_url":"./xray.gz",
 "wgcf_geoip_url":"./geoip.dat.gz",
 "wgcf_json_url":"./wgcf.json",
-"wgcf_vless_id":"",
-"wgcf_vless_optname":"singapore.com:443",
-"wgcf_vless_worker":"",
-"wgcf_vless_path":"/?ed=2048",
+"wgcf_vless_id":"89b3cbba-e6ac-485a-9481-976a0415eab9",
+"wgcf_vless_optname":"104.17.109.22:443",
+//联通高速优选域名30w+：acjp2.cloudflarest.link   acsg.cloudflarest.link   acsg3.cloudflarest.link
+//移动高速优选域名40w+：acjp2.cloudflarest.link   acsg3.cloudflarest.link
+//电信高速优选域名：acsg3.cloudflarest.link    acsg.cloudflarest.link
+"wgcf_vless_worker":"Pg.BPB666.dYnV6.neT",
+"wgcf_vless_path":"/?ed=2560",
 "wgcf_vless_protocol":"vless",
 "wgcf_vless_network":"ws",
-"wgcf_vless_tls":false,
+"wgcf_vless_tls":true,
 "libxl_url":"./libxl_thunder_sdk.so",
-"youtube_proxy":""
+"youtube_proxy":"127.0.0.1:10072"
 }
